@@ -1,8 +1,8 @@
-#USB Driver Package  
+# USB Driver Package  
 This folder contains the official USB-to-UART drivers required for proper communication with ESP8266 and ESP32 development boards.
 These drivers are provided unmodified and are redistributed according to the terms set by their respective manufacturers.
 
-##📌 Included Drivers:  
+## 📌 Included Drivers:  
 ### CH34x USB-to-Serial Driver
 - Manufacturer: WCH (WinChipHead)
 - Official site: https://www.wch-ic.com/
@@ -28,12 +28,12 @@ The drivers included in this package:
 - Must retain all manufacturer-provided files, copyright notes, and licensing information
 Users wishing to obtain the most up-to-date versions are encouraged to download them directly from the official websites.
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 ESP Programmer 2 does not modify, alter, or reverse-engineer these drivers.
 They are redistributed exactly as released by their respective vendors.
 If you experience installation or compatibility issues, please refer to the official manufacturer documentation.
 
-##🔗 Official Download Sources
+## 🔗 Official Download Sources
 - WCH CH34x
 http://www.wch.cn/downloads/CH341SER_ZIP.html
 
