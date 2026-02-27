@@ -1,4 +1,4 @@
-USB Driver Package
+</> USB Driver Package  
 This folder contains the official USB-to-UART drivers required for proper communication with ESP8266 and ESP32 development boards.
 These drivers are provided unmodified and are redistributed according to the terms set by their respective manufacturers.
 
@@ -21,8 +21,8 @@ CP210x USB-to-UART Bridge VCP Driver
 📄 Licensing and Redistribution Notice
 The drivers included in this package:
 - Are property of their respective manufacturers:
--- WCH (CH34x / CH91xx)
--- Silicon Labs (CP210x)
+  - WCH (CH34x / CH91xx)
+  - Silicon Labs (CP210x)
 - Are distributed without modifications
 - Are included solely for convenience, in order to support users who need USB communication with ESP-family devices
 - Must retain all manufacturer-provided files, copyright notes, and licensing information
