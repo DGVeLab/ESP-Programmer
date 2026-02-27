@@ -7,7 +7,7 @@ These drivers are provided unmodified and are redistributed according to the ter
 
 CH34x USB-to-Serial Driver
 Manufacturer: WCH (WinChipHead)
-Official site: http://www.wch.cn
+Official site: http://www.wch.cn](https://www.wch-ic.com/downloads/category/67.html
 Purpose: Required for boards using the CH340 / CH341 USB bridge
 
 CP210x USB-to-UART Bridge VCP Driver
