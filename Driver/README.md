@@ -33,11 +33,11 @@ They are redistributed exactly as released by their respective vendors.
 If you experience installation or compatibility issues, refer to the official manufacturer documentation.
 
 🔗 Official Download Sources
-WCH CH34x
+- WCH CH34x
 http://www.wch.cn/downloads/CH341SER_ZIP.html
 
-WCH CH91xx
+- WCH CH91xx
 https://www.wch-ic.com/downloads/CH9102EVT_ZIP.html
 
-Silicon Labs CP210x
+- Silicon Labs CP210x
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
