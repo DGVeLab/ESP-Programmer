@@ -3,7 +3,7 @@
 ESPprogrammer is a free desktop application designed to simplify flashing, configuration, and management of ESP8266 and ESP32 boards.
 It is intended for makers, hobbyists, and electronics enthusiasts who want a visual, fast, and reliable tool without relying on command-line utilities or complex development environments.
 
-
+---
 ## ✨ Main Features
 - Support for ESP8266 and ESP32 boards
 - Desktop graphical interface
@@ -12,7 +12,7 @@ It is intended for makers, hobbyists, and electronics enthusiasts who want a vis
 - Board-specific panels
 - Integrated tools and utilities
 
-
+---
 ## 🧰 System Requirements
 - Windows 10 / 11 (64-bit)
 - USB-to-Serial drivers installed (CP210x / CH340 / FTDI)
