@@ -1,5 +1,7 @@
 # ESPprogrammer
 
+![ESPprogrammer](images/espprogrammer.png)
+
 ESPprogrammer is a free desktop application designed to simplify flashing, configuration, and management of ESP8266 and ESP32 boards.
 It is intended for makers, hobbyists, and electronics enthusiasts who want a visual, fast, and reliable tool without relying on command-line utilities or complex development environments.
 
